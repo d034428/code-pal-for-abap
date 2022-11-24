@@ -43,7 +43,7 @@ To create or assign a profile, click on the `+` button, and enter a name for the
 
 ### Delegates
 
-Delegates are "owners" of a profile; these are the users how are allowed to modify or delete the profile. If you aren't a delegate, you won't be able to add / change / remove a delegate or check. To add someone else as a delegate, click on the `+` button and enter their user name:
+Delegates are "owners" of a profile; these are the users who are allowed to modify or delete the profile. If you aren't a delegate, you won't be able to add / change / remove a delegate or check. To add someone else as a delegate, click on the `+` button and enter their user name:
 
 ![An image showing the Profile Management Tool's main screen, with the '+' button in the "Delegate" area highlighted](imgs/assign-delegate.png)
 
